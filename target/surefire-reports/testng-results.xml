@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="REST API SUT Application Test Suite" duration-ms="7805" started-at="2018-01-09T04:44:43Z" finished-at="2018-01-09T04:44:51Z">
+    <groups>
+    </groups>
+    <test name="Unit Tests" duration-ms="7805" started-at="2018-01-09T04:44:43Z" finished-at="2018-01-09T04:44:51Z">
+      <class name="TestCases.SecondTestCase">
+        <test-method status="PASS" signature="validateGender()[pri:0, instance:TestCases.SecondTestCase@ea1a8d5]" name="validateGender" duration-ms="2030" started-at="2018-01-09T00:44:47Z" finished-at="2018-01-09T00:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGender -->
+      </class> <!-- TestCases.SecondTestCase -->
+      <class name="TestCases.ThirdTestCase">
+        <test-method status="PASS" signature="validateGender()[pri:0, instance:TestCases.ThirdTestCase@1563da5]" name="validateGender" duration-ms="1407" started-at="2018-01-09T00:44:50Z" finished-at="2018-01-09T00:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGender -->
+      </class> <!-- TestCases.ThirdTestCase -->
+      <class name="TestCases.FirstTestCase">
+        <test-method status="PASS" signature="validateGender()[pri:0, instance:TestCases.FirstTestCase@7a1ebcd8]" name="validateGender" duration-ms="4352" started-at="2018-01-09T00:44:43Z" finished-at="2018-01-09T00:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGender -->
+      </class> <!-- TestCases.FirstTestCase -->
+    </test> <!-- Unit Tests -->
+  </suite> <!-- REST API SUT Application Test Suite -->
+</testng-results>

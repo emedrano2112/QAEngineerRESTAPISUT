@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="REST API SUT Application Test Suite" annotations="1.5">
+    <test name="Unit Tests">
+        <classes>
+            <class name="TestCases.FirstTestCase"/>
+            <class name="TestCases.SecondTestCase"/>
+            <class name="TestCases.ThirdTestCase"/>
+        </classes>
+    </test>
+</suite>

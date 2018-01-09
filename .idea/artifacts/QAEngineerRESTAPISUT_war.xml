@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QAEngineerRESTAPISUT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="QAEngineerRESTAPISUT.war">
+      <element id="artifact" artifact-name="QAEngineerRESTAPISUT:war exploded" />
+    </root>
+  </artifact>
+</component>
